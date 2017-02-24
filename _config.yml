@@ -2,7 +2,3 @@ theme: jekyll-theme-time-machine
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:anruyi/anruyi.github.io.git
-  branch: master
