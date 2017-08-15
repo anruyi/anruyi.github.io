@@ -4,6 +4,7 @@
 ## 截图
 
 ![webdesktop](https://github.com/anruyi/CY-blog/blob/master/webdesktop-preview.png)
+![webdesktop](https://github.com/anruyi/anruyi.github.io/blob/master/webdesktop-preview.png)
 
 ## 示例
 http://blog.ciqufu.com
