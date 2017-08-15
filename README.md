@@ -3,7 +3,13 @@
 
 ## 截图
 
-![webdesktop](https://github.com/Beau-zihan/WebDesktop/blob/master/webdesktop-preview.png)
+![webdesktop](https://github.com/anruyi/CY-blog/blob/master/webdesktop-preview.png)
 
 ## 示例
-http://www.zi-han.net/win
+http://blog.ciqufu.com
+
+
+
+
+
+

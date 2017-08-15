@@ -1,6 +1,6 @@
 ﻿//id,iconName,iconUrl,url,width,height
 var shortcut = [
-[0,"我的博客","images/i/icon11.png","http://www.zi-han.net/",1024,500],
+[0,"我的博客","images/i/icon11.png","http://www.ciqufu.com/",1024,500],
 [1,"腾讯微博","images/i/icon12.png","http://t.qq.com/zheng-zihan",1000,500],
 [2,"新浪微博","images/i/icon13.png","http://weibo.com/atzihan",1000,500],
 [3,"给我邮件","images/i/icon14.png","http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=i@zi-han.net",600,500],
