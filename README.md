@@ -9,7 +9,11 @@
 
 [CY](http://blog.ciqufu.com?_blank)
 
+var aTagArr = [].slice.apply(document.getElementsByTagName("a"));
 
+aTagArr.forEach(function (e, i) {
+  e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
+});
 
 
 
