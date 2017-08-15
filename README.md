@@ -6,7 +6,8 @@
 ![webdesktop](https://github.com/anruyi/anruyi.github.io/blob/master/webdesktop-preview.png)
 
 ## 示例
-http://blog.ciqufu.com
+
+[CY](http://blog.ciqufu.com?_blank)
 
 
 
